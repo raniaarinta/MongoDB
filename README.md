@@ -1,2 +1,2 @@
 # MongoDB
-nosql with mongodb atlas with json
+nosql with mongodb atlas and mongodb shell
